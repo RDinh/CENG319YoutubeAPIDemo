@@ -41,11 +41,16 @@ Outside of the listener, the YouTubePlayerView is initialized with the API key a
 This is just a simple implementation of the Youtube Player and there are other ways to implement the other interfaces and do much more.
 
 ## References
-Youtube Tutorial: https://www.youtube.com/watch?v=W4hTJybfU7s
-Android Youtube Player APi Package: https://developers.google.com/youtube/android/player/reference/com/google/android/youtube/player/package-summary 
-Revision Hisotry: https://developers.google.com/youtube/android/player/revision_history
+Youtube Tutorial: 
+https://www.youtube.com/watch?v=W4hTJybfU7s
 
-Article on Flash Player: https://lifehacker.com/you-really-shouldnt-be-running-adobe-flash-player-anymo-1829721122
+Android Youtube Player APi Package Summary: https://developers.google.com/youtube/android/player/reference/com/google/android/youtube/player/package-summary 
+
+Revision Hisotry: 
+https://developers.google.com/youtube/android/player/revision_history
+
+Article on Flash Player: 
+https://lifehacker.com/you-really-shouldnt-be-running-adobe-flash-player-anymo-1829721122
 
 
 
